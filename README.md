@@ -1,4 +1,4 @@
-# Weather-Project-Machine-Learning-
+# Weather Project-Machine-Learning
 
 ## Intoduction
 The objective of this project is to predict is Rain Tomorrow or not.
