@@ -4,7 +4,7 @@
 The objective of this project is to predict is Rain Tomorrow or not.
 
 ## Weather Data
-Wheater Dataset contains 22 features including temperatures of the weather and Rainfall, Evaporation, Sunshine, WindSpeed, Humidity,Pressure in the air,Todays rain information.
+Weather Dataset contains 22 features including temperatures of the weather and Rainfall, Evaporation, Sunshine, WindSpeed, Humidity,Pressure in the air,Todays rain information.
 
 ### Try to import Pandas and Numpy to read the data.
 
